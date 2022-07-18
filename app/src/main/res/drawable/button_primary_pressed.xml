@@ -40,7 +40,7 @@
     <item>
         <shape>
             <corners android:radius="20dp" />
-            <solid android:color="@color/colorPrimary"/>
+            <solid android:color="@color/colorPrimaryDark"/>
             <stroke
                 android:width="2dp"
                 android:color="#FEFFF4" />
